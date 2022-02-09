@@ -1,6 +1,6 @@
 ### Hi there 👋, My name is MD Abdul Kader
 #### I am Frontend Developer and Web Designer
-![I am Frontend Developer and Web Designer](https://www.canva.com/design/DAE35o8NZUs/K8E4FpHITRRH-2pM9S0EFg/view?utm_content=DAE35o8NZUs&utm_campaign=designshare&utm_medium=link&utm_source=shareyourdesignpanel)
+![I am Frontend Developer and Web Designer](https://media-exp1.licdn.com/dms/image/C5616AQF8JmfsFEBtgw/profile-displaybackgroundimage-shrink_200_800/0/1644449750472?e=1649894400&v=beta&t=1tKspQegwwhzDoKM9t3JgsRnoV3nk39rfF3E8vaVWnQ)
 
 💠I have good experience and knowledge of HTML5, CSS3 and Frameworks, Bootstrap 4&5, Sass, Responsive design, JavaScript with ES-6, jQuery, React JS, WordPress theme customization, expertise in mobile friendly website site in HTML and CSS.
 
