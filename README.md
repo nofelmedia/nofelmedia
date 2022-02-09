@@ -1,6 +1,7 @@
+![I am Frontend Developer and Web Designer](https://media-exp1.licdn.com/dms/image/C5616AQF8JmfsFEBtgw/profile-displaybackgroundimage-shrink_200_800/0/1644449750472?e=1649894400&v=beta&t=1tKspQegwwhzDoKM9t3JgsRnoV3nk39rfF3E8vaVWnQ)
+
 ### Hi there 👋, My name is MD Abdul Kader
 #### I am Frontend Developer and Web Designer
-![I am Frontend Developer and Web Designer](https://media-exp1.licdn.com/dms/image/C5616AQF8JmfsFEBtgw/profile-displaybackgroundimage-shrink_200_800/0/1644449750472?e=1649894400&v=beta&t=1tKspQegwwhzDoKM9t3JgsRnoV3nk39rfF3E8vaVWnQ)
 
 💠I have good experience and knowledge of HTML5, CSS3 and Frameworks, Bootstrap 4&5, Sass, Responsive design, JavaScript with ES-6, jQuery, React JS, WordPress theme customization, expertise in mobile friendly website site in HTML and CSS.
 
