@@ -63,8 +63,4 @@ M.S.R Kader
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=nofelmedia&show_icons=true&count_private=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=nofelmedia)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=nofelmedia)  
-
 ![Profile views](https://gpvc.arturio.dev/nofelmedia)  
